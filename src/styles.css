@@ -1,0 +1,64 @@
+body {
+  font-family: "Amatic SC", cursive;
+  margin: 20px;
+  padding: 40px 60px 10px 60px;
+  border: 2px solid #f67280;
+  border-style: groove;
+  border-radius: 30px 10px;
+  background: linear-gradient(#ffe8e8, #ffdcdc, #ffb4b4);
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 25px;
+}
+
+footer {
+  text-align: center;
+  font-family: "Karla", sans-serif;
+  margin-bottom: 0;
+  color: #f67280;
+}
+
+.search-bar {
+  font-size: 25px;
+  margin: 0;
+  display: block;
+  text-align: left;
+}
+
+.btn-outline-secondary {
+  font-size: 20px;
+  background-color: #f67280;
+  border-color: #f67280;
+}
+
+.col-2 {
+  text-align: center;
+}
+
+.mostly-sunny,
+.sunny,
+.snow,
+.cloudy {
+  position: relative;
+  width: 150px;
+}
