@@ -62,3 +62,10 @@ footer {
   position: relative;
   width: 150px;
 }
+.contact-button {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  background-color: #f67280;
+  border-color: #f67280;
+}
